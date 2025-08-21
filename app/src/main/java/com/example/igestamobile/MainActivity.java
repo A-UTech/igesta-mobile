@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.igestamobile;
 
 import android.os.Bundle;
 
